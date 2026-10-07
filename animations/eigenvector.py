@@ -2,7 +2,7 @@ from manim import *
 import numpy as np
 
 
-class GraphEigenvalueAnimation(Scene):
+class GraphEigenvectorAnimation(Scene):
     TEXT_FONT = "Segoe UI"
 
     SLOTS = ("L", "R")
