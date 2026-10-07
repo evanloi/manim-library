@@ -1,0 +1,14 @@
+[build-system]
+requires = ["setuptools>=68", "wheel"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "graphwave"
+version = "0.3.0"
+description = "Manim tools for visualizing signal processing and graph signal processing concepts."
+readme = "README.md"
+requires-python = ">=3.10"
+dependencies = [
+    "manim",
+    "numpy",
+]
