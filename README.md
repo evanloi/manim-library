@@ -107,7 +107,7 @@ python -m manim -pqh animations/laplacian.py GraphSignalLaplacian
 
 `graphcommons.py` contains the reusable GraphWave functions and data classes.
 
-The files inside `examples/` use those functions to create complete Manim animations.
+The files inside `animations/` use those functions to create complete Manim animations.
 
 ## License
 
